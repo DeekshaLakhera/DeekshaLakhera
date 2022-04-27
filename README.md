@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeekshaLakhera
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning machine Learning using Python
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ...
 
